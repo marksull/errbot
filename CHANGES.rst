@@ -1,6 +1,10 @@
 6.1.8 (unreleased)
 ------------------
 
+features:
+
+- core/plugins: Support room names with spaces (#1262)
+
 fixes:
 
 - close threadpool on exit (#1486)
